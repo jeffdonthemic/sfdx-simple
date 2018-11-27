@@ -7,7 +7,7 @@
     ],
     "disabled": []
   },
-  hasSampleData: true,
+  "hasSampleData": true,
   "orgName": "Your Company",
   "adminEmail": "yourname@example.com"
 }
